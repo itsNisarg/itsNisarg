@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nisarg !
 - 👀 I’m interested in data science and AI/ML.
 - 🌱 I’m currently learning C++, DSA, Java, Python, etc.
-- 💞️ I’m looking to collaborate on anything including open source projects.
+- 💞️ I’m looking to contribute towards open source projects.
 - 📫 Reach me at nisargsuthar0@gmail.com
 
 <!---
