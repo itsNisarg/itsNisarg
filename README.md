@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nisarg !
 - 👀 I’m interested in data science, cloud-tech, big data and AI/ML.
-- 🌱 I’m currently learning Python, C++, DSA, Java, and what not.
+- 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to contribute towards open source projects.
 - 📫 Reach me at nisargsuthar0@gmail.com
 - 🔗 https://linkedin.com/in/nisarg-suthar
