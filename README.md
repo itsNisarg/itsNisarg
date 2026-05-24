@@ -9,6 +9,7 @@
   </a>
 </p>
 <br/>
+
 ### 🚀 About Me
 I am a technology enthusiast working at the intersection of **AI**, **Cloud**, and **Data Science**. Currently, I'm focusing my learning on **Agentic AI**—building and deploying autonomous multi-agent systems. I enjoy translating complex datasets into actionable insights and designing highly scalable cloud pipelines.
 * 🧠 **Currently learning:** Advanced Agentic AI architectures, LLM orchestration, and vector databases (ChromaDB, Pinecone).
@@ -16,6 +17,7 @@ I am a technology enthusiast working at the intersection of **AI**, **Cloud**, a
 * 🤝 **Open Source:** Looking to collaborate on exciting projects related to Agentic AI and data processing.
 * 📬 **Get in touch:** Reach me at [nisarg.personal.work@gmail.com](mailto:nisarg.personal.work@gmail.com).
 <br/>
+
 ### 🛠️ Tech Stack & Toolbox
 <table width="100%">
   <tr>
@@ -44,6 +46,7 @@ I am a technology enthusiast working at the intersection of **AI**, **Cloud**, a
   </tr>
 </table>
 <br/>
+
 ### 📊 Dynamic GitHub Analytics
 <p align="center">
   <a href="https://github.com/itsNisarg">
@@ -59,6 +62,7 @@ I am a technology enthusiast working at the intersection of **AI**, **Cloud**, a
   </a>
 </p>
 <br/>
+
 ### 🏅 My Digital Credentials (Holopin Board)
 <p align="center">
   <a href="https://holopin.io/@nisu">
